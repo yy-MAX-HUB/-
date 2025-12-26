@@ -34,6 +34,8 @@
 - ✅ 卡密激活系统
 - ✅ 自动更新系统
 
+- 如有需要请联系我！qq:1391263180，可提供免费试用！
+
 <img width="1909" height="1078" alt="image" src="https://github.com/user-attachments/assets/ab812d0a-28ee-4aca-96b0-9697d2154d04" />
 
 <img width="1902" height="1085" alt="image" src="https://github.com/user-attachments/assets/4b506fce-d5ab-4bb3-b273-8ff1c84a96ac" />
